@@ -1,15 +1,21 @@
 # Ubuntu Bootstrap Script
 
 A minimal setup script for fresh Ubuntu installs.  
-Installs basic tools for development:
+Installs basic dev tools with a single command 🚀
 
-- vim  
-- curl  
-- git  
-- zsh + Oh My Zsh  
-- python3  
-- nodejs & npm  
-- QEMU (CLI tools)
+---
+
+## Included Tools
+
+| Tool             | Status       |
+|-----------------|------------|
+| vim             | ✅          |
+| curl            | ✅          |
+| git             | ✅          |
+| zsh + Oh My Zsh | ✅          |
+| python3         | ✅          |
+| nodejs & npm    | ✅          |
+| QEMU (CLI)      | ✅          |
 
 ---
 
